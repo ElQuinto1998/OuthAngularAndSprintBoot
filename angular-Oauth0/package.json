@@ -1,0 +1,12 @@
+{
+  "name": "angular-Oauth0",
+  "version": "1.0.0",
+  "description": "Daily Deals is an application built with Angular that shows how you can add token based authentication to your Angular applications. You can read the full tutorial for this project here: [Angular Authentication Tutorial](https://auth0.com/blog/angular-2-authentication/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
